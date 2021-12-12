@@ -31,7 +31,7 @@
 			value="com.mysql.cj.jdbc.Driver"></property>
 		<property name="url" value="jdbc:mysql://localhost:3306/CustomerRelationshipManagement"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="amal1234"></property>
+		<property name="password" value="amalabinaya"></property>
 	</bean>
 	<bean id="sessionFactory"
 		class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
